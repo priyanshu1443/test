@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prianshu farkare
-Skills: HTML, CSS, JS, React
-Email: priyanshufarkare@gmail.com
-{{/user}}
